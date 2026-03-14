@@ -1,7 +1,7 @@
 # 智慧树的账号
-phone = "15986373998"
+phone = "12341234"
 # 智慧树的密码
-pwd = "Asdfghjkl456"
+pwd = "12341234"
 # 智慧树官网，别动!!!
 url1 = "https://onlineweb.zhihuishu.com/"
 # 需要刷的课程视频页（只要是翻转课的都能刷）
